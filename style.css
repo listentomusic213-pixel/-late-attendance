@@ -202,3 +202,5 @@ svg text{font-family:'Nunito','Noto Sans Thai Looped',sans-serif;fill:var(--mute
 }
 
 .hide{display:none}
+
+.logo-img{height:44px;width:auto;max-width:140px;object-fit:contain}
